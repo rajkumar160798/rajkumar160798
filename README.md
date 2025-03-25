@@ -22,7 +22,8 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 ## 💻 Featured Projects
 | Project | Description | Link |
 |--------|-------------|------|
-| 🔧 **Predictive Maintenance Simulator** | Simulated sensor data + Isolation Forest anomaly detection | [GitHub Repo](https://github.com/rajkumar160798/predictive-maintenance-and-smart-automation) |
+| **Predictive Maintenance Simulator** | Simulated sensor data + Isolation Forest anomaly detection | [GitHub Repo](https://github.com/rajkumar160798/predictive-maintenance-and-smart-automation) |
+|**Forecasting Failures with AI**| utilized Facebook Prophet to predict when equipment might fail — even before anomalies start showing up | [GitHub Repo](https://github.com/rajkumar160798/prophet-failure-forecast) |
 | 🧠 More coming soon... | Stay tuned for time-series models, MLOps pipelines, and more |
 
 ---
