@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 ---
 
 ## 📚 Blogs
-🔗 [How AI Detects Failures Before They Happen – A Predictive Maintenance Tutorial](https://medium.com/@myakalarajkumar1998/how-ai-detects-failures-before-they-happen-a-predictive-maintenance-tutorial-657b4ccaaaf0)
-🔗 [Forecasting Equipment Failures Using Facebook Prophet](https://medium.com/@myakalarajkumar1998/forecasting-equipment-failures-using-facebook-prophet-89a2a2548103)
-🔗 [Deploying AI Forecast Models with FastAPI and Docker](https://medium.com/@myakalarajkumar1998/deploying-ai-forecast-models-with-fastapi-and-docker-4e00673ce77f)
+- [How AI Detects Failures Before They Happen – A Predictive Maintenance Tutorial](https://medium.com/@myakalarajkumar1998/how-ai-detects-failures-before-they-happen-a-predictive-maintenance-tutorial-657b4ccaaaf0)
+- [Forecasting Equipment Failures Using Facebook Prophet](https://medium.com/@myakalarajkumar1998/forecasting-equipment-failures-using-facebook-prophet-89a2a2548103)
+- [Deploying AI Forecast Models with FastAPI and Docker](https://medium.com/@myakalarajkumar1998/deploying-ai-forecast-models-with-fastapi-and-docker-4e00673ce77f)
 
 ---
 
