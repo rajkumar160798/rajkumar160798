@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 ## Let’s Connect!
 -  [LinkedIn](https://www.linkedin.com/in/raj-kumar-myakala-927860264/)
 -  [Medium](https://medium.com/@myakalarajkumar1998)
--   Email:myakalarajkumar1998@gmail.com
+-  [Email](myakalarajkumar1998@gmail.com)
 
 ---
 
