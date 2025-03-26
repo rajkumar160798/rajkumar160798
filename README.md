@@ -14,8 +14,10 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 
 ---
 
-## 📚 Recent Blog
+## 📚 Blogs
 🔗 [How AI Detects Failures Before They Happen – A Predictive Maintenance Tutorial](https://medium.com/@myakalarajkumar1998/how-ai-detects-failures-before-they-happen-a-predictive-maintenance-tutorial-657b4ccaaaf0)
+🔗 [Forecasting Equipment Failures Using Facebook Prophet](https://medium.com/@myakalarajkumar1998/forecasting-equipment-failures-using-facebook-prophet-89a2a2548103)
+🔗 [Deploying AI Forecast Models with FastAPI and Docker](https://medium.com/@myakalarajkumar1998/deploying-ai-forecast-models-with-fastapi-and-docker-4e00673ce77f)
 
 ---
 
@@ -23,16 +25,16 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 | Project | Description | Link |
 |--------|-------------|------|
 | **Predictive Maintenance Simulator** | Simulated sensor data + Isolation Forest anomaly detection | [GitHub Repo](https://github.com/rajkumar160798/predictive-maintenance-and-smart-automation) |
-|**Forecasting Failures with AI**| utilized Facebook Prophet to predict when equipment might fail — even before anomalies start showing up | [GitHub Repo](https://github.com/rajkumar160798/prophet-failure-forecast) |
-|**Deploying AI Forecast Models with FastAPI and Docker**|A FastAPI-based microservice that forecasts future temperature sensor readings using a trained Prophet model and flags potential failure risks based on a critical threshold.|[GitHub Repo](https://github.com/rajkumar160798/smart-forecast-deployment-api) |
-| 🧠 More coming soon... | Stay tuned for time-series models, MLOps pipelines, and more |
+|**prophet-failure-forecast**| utilized Facebook Prophet to predict when equipment might fail — even before anomalies start showing up | [GitHub Repo](https://github.com/rajkumar160798/prophet-failure-forecast) |
+|**smart-forecast-deployment-api**|A FastAPI-based microservice that forecasts future temperature sensor readings using a trained Prophet model and flags potential failure risks based on a critical threshold.|[GitHub Repo](https://github.com/rajkumar160798/smart-forecast-deployment-api) |
+| More coming soon... | Stay tuned for time-series models, MLOps pipelines, and more |
 
 ---
 
-## 📫 Let’s Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/raj-kumar-myakala-927860264/)
-- 📝 [Medium](https://medium.com/@myakalarajkumar1998)
-- 📧 Email: myakalarajkumar1998@gmail.com
+## Let’s Connect!
+-  [LinkedIn](https://www.linkedin.com/in/raj-kumar-myakala-927860264/)
+-  [Medium](https://medium.com/@myakalarajkumar1998)
+-   Email:myakalarajkumar1998@gmail.com
 
 ---
 
