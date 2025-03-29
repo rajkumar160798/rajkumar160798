@@ -18,8 +18,8 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 - [How AI Detects Failures Before They Happen – A Predictive Maintenance Tutorial](https://medium.com/@myakalarajkumar1998/how-ai-detects-failures-before-they-happen-a-predictive-maintenance-tutorial-657b4ccaaaf0)
 - [Forecasting Equipment Failures Using Facebook Prophet](https://medium.com/@myakalarajkumar1998/forecasting-equipment-failures-using-facebook-prophet-89a2a2548103)
 - [Deploying AI Forecast Models with FastAPI and Docker](https://medium.com/@myakalarajkumar1998/deploying-ai-forecast-models-with-fastapi-and-docker-4e00673ce77f)
--[Monitoring AI Forecasts Using Airflow and Alerts](https://medium.com/@myakalarajkumar1998/monitoring-ai-forecasts-using-airflow-and-alerts-0fee27e98edc)
--[Scaling AI Monitoring: Cloud Logging and Multi-Channel Forecast Alerts](https://medium.com/@myakalarajkumar1998/scaling-ai-monitoring-cloud-logging-and-multi-channel-forecast-alerts-a069fb746f09)
+- [Monitoring AI Forecasts Using Airflow and Alerts](https://medium.com/@myakalarajkumar1998/monitoring-ai-forecasts-using-airflow-and-alerts-0fee27e98edc)
+- [Scaling AI Monitoring: Cloud Logging and Multi-Channel Forecast Alerts](https://medium.com/@myakalarajkumar1998/scaling-ai-monitoring-cloud-logging-and-multi-channel-forecast-alerts-a069fb746f09)
 
 ---
 
