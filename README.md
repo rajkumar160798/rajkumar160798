@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 
 ## 📚 Latest Blogs
 > ✍️ Published on [Medium](https://medium.com/@myakalarajkumar1998)
-
+- 📌 [Smart Traffic Light Controller-A reinforcement learning-based traffic light control system that uses a Deep Q-Network (DQN) to reduce congestion at a 4-way intersection](https://medium.com/@myakalarajkumar1998/training-a-reinforcement-learning-agent-to-solve-urban-traffic-congestion-1b66577df16c)
 - 📌 [🧠 How AI Detects Failures Before They Happen – A Predictive Maintenance Tutorial](https://medium.com/@myakalarajkumar1998/how-ai-detects-failures-before-they-happen-a-predictive-maintenance-tutorial-657b4ccaaaf0)
 - 📌 [Forecasting Equipment Failures Using Facebook Prophet](https://medium.com/@myakalarajkumar1998/forecasting-equipment-failures-using-facebook-prophet-89a2a2548103)
 - 📌 [Deploying AI Forecast Models with FastAPI and Docker](https://medium.com/@myakalarajkumar1998/deploying-ai-forecast-models-with-fastapi-and-docker-4e00673ce77f)
@@ -34,6 +34,9 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 
 | Project | Description | 🔗 Link |
 |--------|-------------|------|
+
+| **Smart Traffic Light Controller** | A reinforcement learning-based traffic light control system that uses a Deep Q-Network (DQN) to reduce congestion at a 4-way intersection. Built with PyTorch, OpenAI Gym, and Streamlit for visualization | [GitHub Repo](https://github.com/rajkumar160798/smart-traffic-rl) |
+| **speech emotion detector** | A real-time deep learning system that predicts human emotion from voice using MFCC feature extraction and a TensorFlow-based neural network. Built with librosa, TensorFlow, and Streamlit, the app captures audio via microphone and classifies it into emotions like happy, sad, angry, calm, etc. | [GitHub Repo](https://github.com/rajkumar160798/speech-emotion-detector) |
 | 🧪 **SushrutaDx – Diabetes Risk Prediction** | AI-powered Streamlit app with SHAP explanations & PDF health reports | [GitHub Repo](https://github.com/rajkumar160798/sushrutadx) |
 | 🧠 **ProvansIQ – Predictive Maintenance Dashboard** | Full-stack anomaly detection, forecasting, SHAP insights & team feedback system | [GitHub Repo](https://github.com/rajkumar160798/predictasense) |
 | ⚙️ **Predictive Maintenance Simulator** | Simulated sensor data + Isolation Forest anomaly detection | [GitHub Repo](https://github.com/rajkumar160798/predictive-maintenance-and-smart-automation) |
