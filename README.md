@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 - 🎓 Master’s in Business Analytics | Bachelor’s in Mechanical Engineering  
 - 💻 Software Developer @ CVS Health  
 - 🌟 Passionate about AI for **Smart Automation**, **Predictive Maintenance**, and **Operational Intelligence**  
-- 🛠️ Tech Stack: `Python`, `SQL`, `GCP (BigQuery, Vertex AI, Airflow)`, `Streamlit`, `scikit-learn`, `Docker`, `FastAPI`, `Jupyter`
+- 🛠️ Tech Stack: `Python`, `SQL`, `GCP (BigQuery, Vertex AI, Airflow)`, `Streamlit`, `scikit-learn`, `Docker`, `FastAPI`, `Jupyter` ,`Angular`, `React`, `tailwind Css`
 
 ---
 
