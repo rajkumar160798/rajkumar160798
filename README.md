@@ -34,9 +34,6 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 
 | Project | Description | 🔗 Link |
 |--------|-------------|------|
-
-| **Smart Traffic Light Controller** | A reinforcement learning-based traffic light control system that uses a Deep Q-Network (DQN) to reduce congestion at a 4-way intersection. Built with PyTorch, OpenAI Gym, and Streamlit for visualization | [GitHub Repo](https://github.com/rajkumar160798/smart-traffic-rl) |
-| **speech emotion detector** | A real-time deep learning system that predicts human emotion from voice using MFCC feature extraction and a TensorFlow-based neural network. | [GitHub Repo](https://github.com/rajkumar160798/speech-emotion-detector) |
 | 🧪 **SushrutaDx – Diabetes Risk Prediction** | AI-powered Streamlit app with SHAP explanations & PDF health reports | [GitHub Repo](https://github.com/rajkumar160798/sushrutadx) |
 | 🧠 **ProvansIQ – Predictive Maintenance Dashboard** | Full-stack anomaly detection, forecasting, SHAP insights & team feedback system | [GitHub Repo](https://github.com/rajkumar160798/predictasense) |
 | ⚙️ **Predictive Maintenance Simulator** | Simulated sensor data + Isolation Forest anomaly detection | [GitHub Repo](https://github.com/rajkumar160798/predictive-maintenance-and-smart-automation) |
