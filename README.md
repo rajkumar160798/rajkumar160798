@@ -40,6 +40,8 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 | 🔮 **Prophet Failure Forecast** | Uses Facebook Prophet to predict equipment failures based on sensor patterns | [GitHub Repo](https://github.com/rajkumar160798/prophet-failure-forecast) |
 | 🌡️ **Smart Forecast Deployment API** | FastAPI-based microservice for sensor forecasting with Docker | [GitHub Repo](https://github.com/rajkumar160798/smart-forecast-deployment-api) |
 | 🏭 **AI-Based Predictive Maintenance for Industrial IoT** | Combined AI + rule-based anomaly detection on time-series data | [GitHub Repo](https://github.com/rajkumar160798/ai-predictive-maintenance) |
+| **Smart Traffic Light Controller** | A reinforcement learning-based traffic light control system that uses a Deep Q-Network (DQN) to reduce congestion at a 4-way intersection | [GitHub Repo](https://github.com/rajkumar160798/smart-traffic-rl) |
+| **speech emotion detector** | A real-time deep learning system that predicts human emotion from voice using MFCC feature extraction and a TensorFlow-based neural network. | [GitHub Repo](https://github.com/rajkumar160798/speech-emotion-detector) | 
 
 ---
 
