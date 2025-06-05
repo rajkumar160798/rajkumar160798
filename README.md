@@ -35,6 +35,7 @@ Welcome to my GitHub! I'm a data-driven developer focused on building intelligen
 
 | Project | Description | 🔗 Link |
 |--------|-------------|------|
+| **TwinGAN – Generative Digital Twin for Failure Simulation** | Time-series GAN for simulating rare machine failures, boosting predictive maintenance with visualization and classifier evaluation | [GitHub Repo](https://github.com/rajkumar160798/twingan) |
 | **SushrutaDx – Diabetes Risk Prediction** | AI-powered Streamlit app with SHAP explanations & PDF health reports | [GitHub Repo](https://github.com/rajkumar160798/sushrutadx) |
 | **ProvansIQ – Predictive Maintenance Dashboard** | Full-stack anomaly detection, forecasting, SHAP insights & team feedback system | [GitHub Repo](https://github.com/rajkumar160798/predictasense) |
 | **Predictive Maintenance Simulator** | Simulated sensor data + Isolation Forest anomaly detection | [GitHub Repo](https://github.com/rajkumar160798/predictive-maintenance-and-smart-automation) |
