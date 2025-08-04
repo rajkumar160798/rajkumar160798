@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raj Kumar Myakala
 
-![GitHub followers](https://img.shields.io/github/followers/rajkumar160798?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rajkumar160798?label=Follow&style=social) 
 ![Medium](https://img.shields.io/badge/Medium-Blogs-green?logo=medium&style=flat-square)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)
 
