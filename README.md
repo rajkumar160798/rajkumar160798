@@ -81,35 +81,35 @@ Welcome to my GitHub! I'm a research-focused engineer building **next-generation
 
 ## Featured Research Projects
 
-### ** Healthcare & Medical AI**
+### Healthcare & Medical AI
 | Project | Description | Impact | 🔗 Link |
 |---------|-------------|--------|------|
 | **federated-healthcare-ai** | Federated learning for diabetic retinopathy detection enabling hospitals to train models without sharing patient data | **Privacy-preserving medical AI** | [GitHub](https://github.com/rajkumar160798/federated-healthcare-ai) |
 | **sushrutadx** | AI-powered diabetes risk prediction with SHAP explanations & automated health reports | **Democratizing healthcare AI** | [GitHub](https://github.com/rajkumar160798/sushrutadx) |
 | **Hypertension-Risk-Predictor** | Early hypertension detection with explainable AI insights | **Preventive healthcare** | [GitHub](https://github.com/rajkumar160798/Hypertension-Risk-Predictor) |
 
-### ** AI Safety & Ethics**
+### AI Safety & Ethics
 | Project | Description | Impact | 🔗 Link |
 |---------|-------------|--------|------|
 | **gensafeeval** | Unified framework to evaluate, score, and mitigate safety risks in LLMs and VLMs | **LLM Safety Standard** | [GitHub](https://github.com/rajkumar160798/gensafeeval) |
 | **BiasShield** | ML toolkit for detecting, scoring, and explaining toxic/biased text with SHAP interpretability | **Responsible AI Deployment** | [GitHub](https://github.com/rajkumar160798/BiasShield) |
 | **FedFairX** | Federated Learning with Explainable Bias Mitigation for Edge AI | **Fair Distributed AI** | [GitHub](https://github.com/rajkumar160798/FedFairX) |
 
-### ** Advanced Predictive Maintenance**
+###  Advanced Predictive Maintenance
 | Project | Description | Impact | 🔗 Link |
 |---------|-------------|--------|------|
 | **TwinGAN** | Generative Digital Twin using GANs for rare failure simulation in predictive maintenance | **Synthetic failure data generation** | [GitHub](https://github.com/rajkumar160798/TwinGAN) |
 | **causal-diffusion-twin** | Causal inference meets diffusion models for digital twin applications | **Next-gen digital twins** | [GitHub](https://github.com/rajkumar160798/causal-diffusion-twin) |
 | **model-drift-monitor** | AutoDrift implementation - forecast-aware drift detection with automated retraining | **MLOps automation (IEEE Published)** | [GitHub](https://github.com/rajkumar160798/model-drift-monitor) |
 
-### ** Advanced AI Research**
+###  Advanced AI Research
 | Project | Description | Impact | 🔗 Link |
 |---------|-------------|--------|------|
 | **causalae** | Causal inference and representation learning for AI systems | **Causal AI research** | [GitHub](https://github.com/rajkumar160798/causalae) |
 | **smart-traffic-rl** | Reinforcement Learning-based smart traffic optimization using Deep Q-Networks | **Smart city infrastructure** | [GitHub](https://github.com/rajkumar160798/smart-traffic-rl) |
 | **langchain-rag-bot** | Production-ready RAG system with LangChain for enterprise document processing | **Enterprise AI integration** | [GitHub](https://github.com/rajkumar160798/langchain-rag-bot) |
 
-### ** Cybersecurity & Automation**
+###  Cybersecurity & Automation
 | Project | Description | Impact | 🔗 Link |
 |---------|-------------|--------|------|
 | **cyberthreat-ai-detector** | AI-powered cybersecurity threat detection using CICIDS 2017 dataset | **Automated security monitoring** | [GitHub](https://github.com/rajkumar160798/cyberthreat-ai-detector) |
