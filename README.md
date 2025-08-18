@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a research-focused engineer building **next-generation
 </div>
 
 <div align="center">
-  <h2>🎯 <em>"Transforming Industries Through Intelligent Automation & Responsible AI"</em></h2>
+  <h2><em>"Transforming Industries Through Intelligent Automation & Responsible AI"</em></h2>
 </div>
 
 ---
