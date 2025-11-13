@@ -35,10 +35,34 @@ Welcome to my GitHub! I'm a research-focused engineer building **next-generation
 
 ## Publications
 
-### **AutoDrift: A Forecast-Aware Concept Drift Detection and Retraining Pipeline in MLOps with CMAPSS**
-**IEEE BigDataService 2025** · Jul 21, 2025
 
-*Presented at the 2025 IEEE International Conference on Big Data Computing Service and Machine Learning Applications (BigDataService)*
+
+### **Unified Predictive Maintenance with Generative Anomaly Injection and Reinforcement Learning Scheduling in Data-Driven Digital Twins**
+**IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2025)** · Los Angeles, CA · Nov 02-05, 2025
+
+*Presented at IEEE FMLDS 2025 – Los Angeles, CA*
+
+- Introduced a Generative AI-Enhanced Digital Twin (GAI-DT) framework that fuses GAN-based rare fault simulation, SHAP-driven explainability, and RL maintenance scheduling
+- validated the framework across NASA C-MAPSS, AI4I 2020, and XJTU-SY datasets, achieving *12.6%* higher prediction accuracy and *~19%* reduction in downtime.
+- Enabled self-optimizing, interpretable predictive maintenance workflows for industrial equipment fleets
+- Validated the approach with large-scale digital twin benchmarks, showing superior fault coverage and maintenance efficiency
+
+---
+### **AI-Powered Intrusion Detection with SHAP Explainability and Feedback Loop**
+**57th Annual International Carnahan Conference on Security Technology (ICCST)** · University of Texas at San Antonio , San Antonio, TX · 14-17 October 2025
+
+*Presented at the 57th ICCST, highlighting adaptive AI security for critical infrastructure*
+
+- Built a closed-loop intrusion detection pipeline that blends SHAP explanations with analyst feedback to continuously harden defenses
+- Demonstrated real-time transparency that helps security teams trace threat signatures and accelerate mitigation decisions
+- Showcased empirical gains in signal fidelity and analyst trust during live ICCST sessions
+
+---
+
+### **AutoDrift: A Forecast-Aware Concept Drift Detection and Retraining Pipeline in MLOps with CMAPSS**
+**IEEE BigDataService 2025 (CISOSE Congress)** · Tuscon, AZ · Jul 21, 2025
+
+*Presented at the 11th IEEE International Conference on Big Data Computing Service and Machine Learning Applications as part of IEEE CISOSE 2025*
 
 - **Key Contributions**: Novel modular pipeline unifying concept drift detection, statistical triggers, and automated retraining in MLOps environments
 - **Performance**: Achieved **91.2% forecast precision** and **37% reduction in retraining latency** using NASA CMAPSS dataset
@@ -156,4 +180,3 @@ Welcome to my GitHub! I'm a research-focused engineer building **next-generation
 *"The best way to predict the future is to create it through intelligent automation."*
 
 </div>
-
