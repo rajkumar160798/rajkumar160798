@@ -13,7 +13,7 @@
 
 **AI/ML Research Engineer | Published Researcher | MLOps & AutoML Specialist | Federated Learning Expert**
 
-Welcome to my GitHub! I'm a research-focused engineer building **next-generation AI systems** that predict, automate, and scale intelligently across healthcare, industry, and safety-critical applications.
+Welcome to my GitHub! I'm a research-focused AI/ML engineer building **next-generation AI systems** that predict, automate, and scale intelligently across healthcare, industry, and safety-critical applications.
 
 
 </div>
