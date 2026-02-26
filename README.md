@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a research-focused AI/ML engineer building **next-gene
 ---
 
 ## About Me
-- **Master's in Business Analytics** | Bachelor's in Mechanical Engineering  
+- **Master's in Business Analytics** | **Bachelor's in Mechanical Engineering**  
 - **Software Developer @ CVS Health** | **Published IEEE Researcher**
 - Specialized in **Advanced AI Research**, **Federated Learning**, **AI Safety**, and **MLOps Automation**  
 - **Research Focus**: Predictive Maintenance, Healthcare AI, LLM Safety, Causal Inference, Multi-Agent Systems
